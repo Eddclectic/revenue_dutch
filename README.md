@@ -498,7 +498,9 @@ The minimum churn rate in all the order years is 65% and it went as high as 82%.
 
 ### STRATEGIC RECOMMENDATIONS
 **Churn Customers**
-These are recommended for aggressive improvement of the slow increase in customers activities seen over the years
+
+These are recommended for aggressive improvement of the slow increase in customers activities seen over the years.
+
 * Reward long-term customers (customers for more than 2years) with exclusive benefits, discounts, or early access to new features.
 * Provide discounts or promotions tailored to individual customer purchase history or behavior.
 * Target the large pool of churned customers with special offers or new features to encourage possible return.
@@ -507,7 +509,9 @@ These are recommended for aggressive improvement of the slow increase in custome
 * Use the information from customer survey to enhance products and improve service. 
 
 **Repeat Buyers**
+
 Customers repeat buy increases very slowly and these are the recommendations for drastic improvement. 
+
 * Provide exceptional post-purchase experience through timely order updates, fast and reliable delivery, and easy returns and purchases.
 * Tailor product recommendations based on past purchases, browse history, or stated preferences.
 * Send relevant emails (e.g., reorder reminders, abandoned cart follow-ups, birthday discounts)
