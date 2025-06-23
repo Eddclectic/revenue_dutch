@@ -1,4 +1,4 @@
-## Revenue Analysis and Customer Behavior (A Case Study of Netherland’s Customers)
+## REVENUE ANALYSIS AND CUSTOMER BEHAVIOR
 ### OVERVIEW
 The primary aim of every retail business is to improve revenue and optimize profits and this is majorly dependent on customer behavior and product performance in terms of profits and revenue. Considering a retail store whose customer base cuts across 8 countries and I investigated the profit and revenue generated from Netherlands’ customers, product performance from patronage of Netherlands customers and the overall behavior of Netherlands’ customers in their various segments. The Contoso demo datasets from Microsoft was utilized because it is a typical retail store datasets that creates the opportunity to explore data warehousing and business intelligence tools in real world scenario.<br>
 **OBJECTIVE:** carry out profit and revenue analysis, investigate product performance and understand customer behavior through segmentation for all sales from Netherlands.    
@@ -178,8 +178,9 @@ WHERE weekday_percent_revenue_rank = 1
 
 ```
 
-![T2](latest\T2.jpg) 
-**Table 1.1: Table Showing the Maximum Quarter Revenue and Maximum Weekday Revenue per Order Year**
+<img src="latest\T2.jpg">
+
+*Table 1.1: Table Showing the Maximum Quarter Revenue and Maximum Weekday Revenue per Order Year*
 
 #### Key Findings:
 Quarter 1 and 4 generated the maximum percentage revenue in majority of the order years.<br>
@@ -268,8 +269,9 @@ GROUP BY p.categoryname,order_year
  cr.total_net_revenue
 
 ```
- ![T3](latest\T3.png)
-**Table 1.2: Table Showing Total Profit Revenue for each Product Category by Order Year**
+ <img src="latest\T3.png">
+
+*Table 1.2: Table Showing Total Profit Revenue for each Product Category by Order Year*
 
 #### Key Findings:
 The computers category has the overall maximum profit revenue in all order years with its peak at 2022 while Games and Toys, and Audio category have the least.<br>
@@ -279,8 +281,9 @@ There is a decrease in profit revenue for all categories in year 2020 and 2024, 
 ```
 
 
- ![T3](latest\T4.jpg)
-**Table 1.3: Table Showing the Average Order Value by Order Year**
+ <img src="latest\T4.jpg">
+
+*Table 1.3: Table Showing the Average Order Value by Order Year*
 
 #### Key Findings:
 Computers have the highest AOV compared to other categories for each order year.<br>
@@ -340,8 +343,9 @@ FROM customer_info ci
 GROUP BY age_category
 
 ```
-![T4](latest\T5.png)
-Table 5: Table Showing Age Category Revenue by Order Year
+<img src="latest\T5.png">
+
+*Table 5: Table Showing Age Category Revenue by Order Year*
 
 #### Key Findings:
 The Senior category generated the highest revenue in almost all the order years.<br>
@@ -421,7 +425,8 @@ SELECT
  LEFT JOIN customer_total ct
  ON rc.order_year=ct.order_year
 ```
-![T5](latest\T6.jpg) 
+<img src="latest\T6.jpg"> 
+
 *Table 6: Table Showing Percentage of Repeat Customers and Total Number of Customer by Order Year*
 
 #### Key Findings:
@@ -476,7 +481,8 @@ GROUP BY fp.customer_status, year_date
 
 ```
 
-![](latest\T7.jpg) 
+<img src="latest\T7.jpg">
+
 *Table 7: Table Showing Percentage of Customer Status by Order Year*
 
 #### Key Insights:
@@ -531,9 +537,9 @@ Customers repeat buy increases very slowly and these are the recommendations for
 * Encourage separate loyalty program redemptions or point accumulation on weekdays and weekends shopping.
 * Use the weekdays to give customers a unique look at the new exciting features of all items on sale.
 
-##### LIMITATION
+### LIMITATION
 The given sales data for order year 2024 only captures the first four months of the year, causing a major decline in profits and revenue in that year.
-###### Technical Details:
+### TECHNICAL DETAILS:
 * Programming language: SQL was used to manipulate and manage the database 
 * Databases: PostgreSQL is the relational database management system that was used in storing and querying the structured data 
 * Analysis Tools used: PostgreSQL, DBeaver and PgAdmin
