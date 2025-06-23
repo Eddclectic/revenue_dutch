@@ -46,7 +46,8 @@ SELECT
 FROM
 	category_profit_nl cp
 ```
- ![T1](latest\T1.jpg)
+<img src="latest\T1.jpg">
+
 *Table 1.0: Table Showing Percentage Profit Change and Total Net profit by Order Year*
 
 #### Key Findings:
