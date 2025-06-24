@@ -1,7 +1,8 @@
 ## REVENUE ANALYSIS AND CUSTOMER BEHAVIOR
 ### OVERVIEW
 The primary aim of every retail business is to improve revenue and optimize profits and this is majorly dependent on customer behavior and product performance in terms of profits and revenue. Considering a retail store whose customer base cuts across 8 countries and I investigated the profit and revenue generated from Netherlands’ customers, product performance from patronage of Netherlands customers and the overall behavior of Netherlands’ customers in their various segments. The Contoso demo datasets from Microsoft was utilized because it is a typical retail store datasets that creates the opportunity to explore data warehousing and business intelligence tools in real world scenario.<br>
-**OBJECTIVE:** carry out profit and revenue analysis, investigate product performance and understand customer behavior through segmentation for all sales from Netherlands.    
+
+**OBJECTIVE:** Carry out profit and revenue analysis, investigate product performance and understand customer behavior through segmentation for all sales from Netherlands.    
 
 **Business Questions**
 1)	Which year generates the most profit alongside the percentage profit change per year 
