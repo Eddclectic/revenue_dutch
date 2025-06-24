@@ -498,7 +498,9 @@ The minimum churn rate in all the order years is 65% and it went as high as 82%.
 
 
 ### STRATEGIC RECOMMENDATIONS
-**Churn Customers**
+From the insights from analysis and visualizations done we provide recommendations on how to increase daily and quarterly product revenue, and reduce churned and inactive customers in the Netherlands.
+
+**Churned Customers**
 
 These are recommended for aggressive improvement of the slow increase in customers activities seen over the years.
 
@@ -521,15 +523,14 @@ Customers repeat buy increases very slowly and these are the recommendations for
 * Provide excellent Customer Service
 * Build community and engagement where customers can share their experience with the brand
 
-**Product Category**
-* These are the recommendations to improve profit for the low revenue middle-aged and youth product category.
-* Increase sales campaign on UpToDate and exciting features on Middle-Aged and Youth friendly item categories
-* like Audio, Games and Toys, Movies, Music and Audio books, and Cameras and Camcorders.
+**Product Category** <br>
+These are the recommendations to improve profit for the low revenue middle-aged and youth product category.
+* Increase sales campaign on Uptodate and exciting features on Middle-Aged and Youth friendly product categories like Audio, Games and Toys, Movies, Music and Audio books, and Cameras and Camcorders.
 * Encourage Cross-Selling and Up-Selling by promoting buying of low AOV products at a discount price in addition to high AOV categories at a higher price so as to increase the sales of both products. The low AOV products are the more middle-aged and youth type of items.
 * Set up a minimum order value for free shipping and discounts for the low AOV product category.
 
-**Quarter Revenue**
-* These are the recommendations for increasing revenue for low revenue quarters Q2 and Q3
+**Quarter Revenue** <br>
+These are the recommendations for increasing revenue for low revenue quarters Q2 and Q3
 * Use clearance Sales on Q2 and Q3 to clear out old inventory and freeing up capital for new stock. 
 * Introduce new seasonal products suitable for the Middle-aged and Youths in Q2 and Q3.
 * Generate urgency for customers to shop in Q2 and Q3 by creating limited time offer through time-sensitive sales events within this period.
@@ -538,9 +539,9 @@ Customers repeat buy increases very slowly and these are the recommendations for
 
 **Daily Revenue**
 * Offer specific discounts and flash sales separately for weekdays and weekends.
-* Run digital ad campaigns specifically scheduled to promote offers on weekdays. Send out reminders on these offers.
-* Encourage separate loyalty program redemptions or point accumulation on weekdays and weekends shopping.
-* Use the weekdays to give customers a unique look at the new exciting features of all items on sale.
+* Run digital ad campaigns specifically scheduled to promote offers on weekdays and send out reminders on these offers.
+* Encourage loyalty program redemptions or point accumulation separately on weekdays and weekends shopping.
+* Use the weekdays to give customers a unique look at the new or upcoming exciting features of all items on sale.
 
 ### LIMITATION
 The given sales data for order year 2024 only captures the first four months of the year, causing a major decline in profits and revenue in that year.
